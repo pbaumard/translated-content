@@ -2,7 +2,7 @@
 title: <input type="date">
 slug: Web/HTML/Element/input/date
 translation_of: Web/HTML/Element/input/date
-browser-compat: html.elements.input.input-date
+browser-compat: html.elements.input.type_date
 ---
 
 {{HTMLSidebar}}
